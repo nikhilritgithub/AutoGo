@@ -320,7 +320,7 @@ nav {
 
 .experience__card {
   position: absolute;
-  max-width: 200px;
+  max-width: 195px;
 }
 
 .experience__card span {
@@ -423,7 +423,7 @@ nav {
 .footer__col h4 {
   margin-bottom: 2rem;
   font-size: 1.25rem;
-  font-weight: 700;
+  font-weight: 690;
   color: var(--text-dark);
 }
 
