@@ -44,7 +44,7 @@
   color: var(--white);
   background-color: #474fa0;
   white-space: nowrap;
-  border-radius: 5px;
+  border-radius: 4px;
   transition: 0.3s;
   cursor: pointer;
 }
