@@ -94,7 +94,7 @@ header::before {
 nav {
   position: fixed;
   isolation: isolate;
-  width: 100%;
+  width: 101%;
   z-index: 9;
 }
 
