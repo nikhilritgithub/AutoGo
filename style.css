@@ -100,7 +100,7 @@ nav {
 
 .nav__header {
   padding: 1rem;
-  width: 100%;
+  width: 110%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -124,7 +124,7 @@ nav {
   top: 100%;
   left: 0;
   width: 100%;
-  padding: 2rem;
+  padding: 3rem;
   display: flex;
   align-items: center;
   justify-content: center;
